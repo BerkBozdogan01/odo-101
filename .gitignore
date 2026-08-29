@@ -1,0 +1,5 @@
+# derlenen dosyalar
+gorev*/gorev*
+bonus_ros2/bonus_ros2
+*.o
+*.out

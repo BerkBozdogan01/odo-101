@@ -17,10 +17,12 @@ O yüzden her görevde sadece kod yok, hatanın ölçümü de var.
 
 ## Durum
 
+**Hafta 1 tamamlandı.** Hafta 2'nin kod kısmına geçildi.
+
 | Görev | Konu | Durum |
 |-------|------|-------|
-| 0 | Vec2, Pose2D, açı normalizasyonu + birim testler | devam ediyor |
-| 1 | Enkoder simülatörü + ölü hesap (Euler vs. tam yay) | bekliyor |
+| 0 | Vec2, Pose2D, açı normalizasyonu + birim testler | tamamlandı |
+| 1 | Enkoder simülatörü + ölü hesap (Euler vs. tam yay) | devam ediyor |
 | 2 | Ackermann odometrisi, kalibrasyon hatası deneyi | bekliyor |
 | 3 | Monte Carlo, kovaryans elipsi | bekliyor |
 | 4 | Elle Mat3 + Kalman/EKF | bekliyor |
